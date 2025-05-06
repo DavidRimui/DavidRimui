@@ -1,92 +1,65 @@
-<!--
-👋 Hello! I'm Rimui, a passionate Front-End Engineer.
--->
-
-<h1 align="center">Hi, I'm Rimui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-
+<!-- Profile Header with GIF -->
+<h1 align="center">Hi there, I'm Rimui 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Front--End%20Engineer-Expert-blue.svg" alt="Front-End Engineer" />
-  <img src="https://img.shields.io/badge/Tech-HTML5-orange.svg" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Tech-CSS3-blue.svg" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tech-JavaScript-yellow.svg" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tech-TypeScript-blue.svg" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Framework-React-informational.svg" alt="React" />
-  <img src="https://img.shields.io/badge/Framework-Vue-brightgreen.svg" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Framework-Angular-red.svg" alt="Angular" />
-  <img src="https://img.shields.io/badge/CSS%20Framework-TailwindCSS-teal.svg" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Tool-Next.js-black.svg" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tool-Git-black.svg" alt="Git" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Front-End+Engineer;React+%7C+Vue+%7C+TailwindCSS;Passionate+about+UI%2FUX+%26+Web+Animations" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📖 About Me
+### 🚀 About Me
 
-I am a Front-End Engineer with a strong passion for crafting responsive and accessible user interfaces. With over 2 years of experience, I specialize in converting design mockups into pixel-perfect web pages, optimizing performance, and ensuring seamless user experiences across devices.
-
-- 🎓 **Education:** Software Engineering. Moringa School.
-- 💻 **Work:** Software & Web Development.
-- ⚙️ **Current Focus:** Advanced React patterns, JAMstack architectures, and CSS-in-JS solutions.
-
----
-
-## 🛠️ Skills & Tools
-
-| Category              | Skills & Libraries                      |
-|-----------------------|-----------------------------------------|
-| Markup & Styling      | HTML5, CSS3, Sass, TailwindCSS          |
-| JavaScript Frameworks | Vanilla JS, React, Vue, Angular, Next.js|
-| TypeScript            | Strict Typing, Generics, Interfaces     |
-| State Management      | Redux, Zustand, Vuex                    |
-| Bundlers & Build      | Webpack, Vite, Parcel                   |
-| Testing               | Jest, React Testing Library, Cypress    |
-| Version Control       | Git, GitHub Actions, CI/CD Pipelines    |
-| Design & Prototyping  | Figma, Adobe XD                         |
+- 🌍 I'm based in Kenya  
+- 💻 I'm passionate about **clean code**, **accessible UI**, and **pixel-perfect design**  
+- 🔭 Currently working on: interactive dashboards & responsive landing pages  
+- 🏀 I also play basketball & swim during weekends!
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### [Project One](https://scienceforafrica.foundation/)
-Responsive e-commerce landing page built with Next.js and TailwindCSS. Highlights:
-- **SSR & SSG** for optimal SEO and performance
-- **Lazy Loading** images and components
-- **Custom Hooks** for data fetching
-
-### [Project Two](https://www.kelinkenya.org/)
-Interactive data dashboard using React, Recharts, and Material UI. Features:
-- **Dynamic Charts** and real-time updates
-- **Dark Mode** toggle
-- **Accessible** keyboard navigation and ARIA roles
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,sass,bootstrap,vite,figma,git,github,vscode&perline=8" />
+</div>
 
 ---
 
-## 📈 GitHub Stats
+### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&border_radius=12" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&border_radius=12" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Get In Touch
+### ✨ Featured Projects
 
-- 🔗 **Website:** [your-website.com](https://your-website.com)
-- ✉️ **Email:** [rimui@youremail.com](mailto:rimuikaranja@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [Portfolio Website](https://your-portfolio-url.com) | React, TailwindCSS | Sleek animated portfolio with dark/light mode toggle |
+| [E-commerce UI](https://github.com/your-username/ecommerce-ui) | Vue.js, Bootstrap | Responsive product catalog with cart system |
+| [Animated Landing Page](https://github.com/your-username/landing-page) | HTML, GSAP | Scroll-based animation with parallax effects |
 
 ---
 
-<details>
-<summary>📝 Recent Blog Posts</summary>
+### 📫 Let’s Connect!
 
-- [Optimizing React Performance](#)
-- [Understanding CSS Grid](#)
-- [Building Accessible Web Apps](#)
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
 
-</details>
+---
 
-<!--
-Feel free to connect or explore my work! 🚀
--->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onestar&no-frame=true&row=1" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=brightgreen" alt="Profile Views" />
+</p>
