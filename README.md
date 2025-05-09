@@ -23,35 +23,11 @@
 
 ---
 
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&border_radius=12" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&border_radius=12" alt="Top Languages" />
-</p>
-
----
-
-### ✨ Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| [Portfolio Website](https://your-portfolio-url.com) | React, TailwindCSS | Sleek animated portfolio with dark/light mode toggle |
-| [E-commerce UI](https://github.com/your-username/ecommerce-ui) | Vue.js, Bootstrap | Responsive product catalog with cart system |
-| [Animated Landing Page](https://github.com/your-username/landing-page) | HTML, GSAP | Scroll-based animation with parallax effects |
-
----
-
 ### 📫 Let’s Connect!
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="mailto:rimuikaranja@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
